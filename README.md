@@ -3,7 +3,7 @@
 
 #### A junior developer from Bordeaux - France.
 
-- 🤠 I’m currently working on  my [Mineral Contest]() project for Pocketmine
+- 🤠 I’m currently working on  my [Mineral Contest](https://github.com/Galzron/Mineral-Contest) project for Pocketmine
 - 🏀 I'm also working on a electron react-app for my friends basketball team
 
 #### Languages and Tools:
